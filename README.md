@@ -1,6 +1,6 @@
-### Attendance Management System
+### School Management System
 This is a personal project made with HTML,CSS,jQuery,MySql, and PHP. It is made with core php so there is little to do. This can be managed easily. 
-#### Feature
+#### Feature (Implementing)
 - Search user and view their attandance
 - Print students attandance record
 - Easy adding students or staffs
